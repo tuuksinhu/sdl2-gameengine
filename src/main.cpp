@@ -81,7 +81,7 @@ void title()
 void island1script()
 {
     island1.setRenderer(ren);
-    island1.loadImage("res/island.webp");
+    island1.loadImage("res/island.png");
     island1.setPos(0, 0);
     island1.setSize(WWIDTH, WHEIGHT);
 }
